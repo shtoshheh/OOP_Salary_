@@ -1,0 +1,16 @@
+﻿  Admin.cpp
+  Booker.cpp
+  Employee.cpp
+C:\Users\user\source\repos\OOP_Salary\OOP_Salary\My_namespace.h(66,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\OOP_Salary\OOP_Salary\My_namespace.h(69,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\OOP_Salary\OOP_Salary\Employee.cpp(13,6): warning C4101: n: неиспользованная локальная переменная
+  Hash.cpp
+C:\Users\user\source\repos\OOP_Salary\OOP_Salary\Hash.cpp(17,21): warning C4244: аргумент: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\user\source\repos\OOP_Salary\OOP_Salary\Hash.cpp(18,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\OOP_Salary\OOP_Salary\Hash.cpp(19,16): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  OOP_Salary.cpp
+  Registration.cpp
+  User.cpp
+  Validation.cpp
+  Создание кода...
+  OOP_Salary.vcxproj -> C:\Users\user\source\repos\OOP_Salary\x64\Debug\OOP_Salary.exe
